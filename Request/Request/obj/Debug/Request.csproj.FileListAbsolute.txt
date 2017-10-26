@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Request\Request\bin\Debug\Request.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Request\Request\bin\Debug\Request.exe
+c:\users\user\documents\visual studio 2013\Projects\Request\Request\bin\Debug\Request.pdb
+c:\users\user\documents\visual studio 2013\Projects\Request\Request\obj\Debug\Request.exe
+c:\users\user\documents\visual studio 2013\Projects\Request\Request\obj\Debug\Request.pdb
+c:\users\user\documents\visual studio 2013\Projects\Request\Request\obj\Debug\Request.csprojResolveAssemblyReference.cache
+C:\Users\tugrul\Desktop\Request\Request\bin\Debug\Request.exe.config
+C:\Users\tugrul\Desktop\Request\Request\obj\Debug\Request.exe
+C:\Users\tugrul\Desktop\Request\Request\obj\Debug\Request.pdb
+C:\Users\tugrul\Desktop\Request\Request\bin\Debug\Request.exe
+C:\Users\tugrul\Desktop\Request\Request\bin\Debug\Request.pdb
+C:\Users\tugrul\Desktop\Request\Request\obj\Debug\Request.csprojResolveAssemblyReference.cache
